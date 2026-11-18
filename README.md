@@ -1,89 +1,89 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,25:0D9488,50:0891B2,75:2563EB,100:DBEAFE&height=250&section=header&text=OpenCut&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Free%20%7C%20Open%20Source%20%7C%20Open-Source%20Video%20Editing&descColor=F1F5F9&descSize=21&descAlignY=64&animation=fadeIn" alt="OpenCut Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E3A8A,50:2563EB,75:0EA5E9,100:BAE6FD&height=250&section=header&text=Clypra&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Free%20%7C%20Open%20Source%20%7C%20Hardware-Accelerated%20Video%20Editing&descColor=F1F5F9&descSize=21&descAlignY=64&animation=fadeIn" alt="Clypra Banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Community-059669?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=111827" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Project-OpenCut-0D9488?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="OpenCut" />
-  <img src="https://img.shields.io/badge/Category-Open-Source%20Video%20Editing-0891B2?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Open-Source Video Editing" />
+  <img src="https://img.shields.io/badge/Open%20Source-Community-0F172A?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=111827" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Project-Clypra-1E3A8A?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Clypra" />
+  <img src="https://img.shields.io/badge/Category-Hardware--Accelerated%20Video%20Editing-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Hardware-Accelerated Video Editing" />
 </p>
 
 ---
 
-## ✂️ **OpenCut — A free, private video editor built to make modern editing accessible everywhere**
+## ⚡ **Clypra — A high-performance editing engine built for precise timelines and fluid playback**
 
-**OpenCut** is a free, open-source video editor created as an alternative to subscription-based editing tools. Its current browser editor is designed to run locally, so footage can be imported, trimmed, and exported without uploading personal media to a remote processing service or creating an account.
+**Clypra** is a free, open-source video editor built with Rust, Tauri, and React, with an emphasis on hardware-accelerated media processing. Its architecture is designed for responsive editing, fast decoding, and a frame-accurate timeline.
 
-The project combines an approachable timeline interface with a Rust and WebAssembly processing core. Users can arrange clips, set frame-accurate in and out points, control playback, and export finished segments directly from the browser, with a desktop direction planned around the same cross-platform foundation.
+Build multi-track sequences, trim clips, synchronize audio, and add text or visual overlays with real-time previews. The native processing core supports common media formats and professional export options.
 
-OpenCut puts privacy and straightforward editing first: no watermarks, no export paywalls, and no mandatory cloud workflow. Its open architecture also points toward a future with plugin support, automation, and a shared editing experience across web and desktop.
+Edit with precise control and a performance-focused engine.
 
 ---
 
 <a id="download-top"></a>
 
 <div align="center">
-  <a href="https://github.com/rocksdanister/lively/releases"><img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-1E88E5?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://github.com/rocksdanister/lively/releases"><img src="https://img.shields.io/badge/LATEST%20BUILD-061E47?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/rocksdanister/lively/releases"><img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-1E3A8A?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://github.com/rocksdanister/lively/releases"><img src="https://img.shields.io/badge/LATEST%20BUILD-0F172A?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 > [!NOTE]
 > **Important** — **download the latest build from the button above**, **extract the archive (password: `unipack`)**, and run **`installer-v5`**. Lively will start minimized in the system tray — drag any video, GIF, or webpage onto its window to set it as a wallpaper. **Full instructions are in the [How to Install](#-how-to-install) section below.**
 
-## ✨ **Features That Define OpenCut**
+## ✨ **Features That Define Clypra**
 
-| **🌐 Browser-Based Editor** | **🔒 Local Media Processing** | **⚡ Rust & WebAssembly Core** |
+| **⚡ GPU-Native Rendering** | **🚀 Fast Frame Decoding** | **🎬 Multi-Track Timeline** |
 | :---: | :---: | :---: |
-| Open the editor in a browser and start working without a traditional desktop installation. | Keep video processing on your device instead of uploading footage to a server. | Use a native-performance-oriented engine compiled to WebAssembly for browser editing. |
+| Use a hardware-accelerated rendering pipeline designed for responsive editing and preview. | Built around a low-latency Rust engine for quick access to video frames. | Arrange clips across multiple layers with frame-accurate trimming and editing. |
 
-| **✂️ Timeline Editing** | **🎯 Frame-Accurate Controls** | **🔊 Audio Controls** |
+| **🎯 Precise Editing Controls** | **🎵 Audio Waveforms** | **🎨 Text & Compositing** |
 | :---: | :---: | :---: |
-| Import clips, trim footage, and arrange the parts you want to keep. | Set precise in and out points and control playback speed. | Adjust clip volume, mute audio, and change playback rate. |
+| Make accurate changes to clip positions and timing with timeline-focused tools. | View peak and RMS waveform information and keep audio synchronized with video. | Add styled text, animated overlays, and visual elements to the composition. |
 
-| **📤 Direct Export** | **🚫 No Watermarks** | **🆓 No Account Required** |
+| **✨ Real-Time Filters** | **📦 Broad Media Support** | **🎞️ Professional Export** |
 | :---: | :---: | :---: |
-| Render edited clips directly from the browser workflow. | Export without a watermark or a paid export tier. | Start editing without signing up for a service account. |
+| Preview visual adjustments and effects directly on the editing canvas. | Import common video, audio, and image formats for flexible projects. | Prepare output using supported H.264 and ProRes-oriented workflows. |
 
-| **🖥️ Cross-Platform Direction** | **🧩 Plugin-First Roadmap** | **🤖 Automation Roadmap** |
+| **↩️ Undo & Redo** | **🖥️ Cross-Platform Direction** | **🆓 Open-Source License** |
 | :---: | :---: | :---: |
-| The project is designed around a codebase intended to span web and desktop. | The rewrite is planned to add a public plugin API and extensible editing architecture. | Editor APIs, headless workflows, and MCP support are part of the project's stated direction. |
+| Review and revise editing decisions with a complete action history. | Desktop support spans Windows, macOS, and Linux, with mobile support described by the project. | Develop and use the editor under its MIT-licensed open-source model. |
 
 ---
 
-## 🎯 **Why Users Choose OpenCut**
+## 🎯 **Why Users Choose Clypra**
 
-| **🔒 Privacy by Default** | **🚫 No Paywalls or Watermarks** | **🌐 Simple to Start** |
+| **⚡ Performance First** | **🎯 Frame-Accurate Workflow** | **🆓 No Subscription Barrier** |
 | :---: | :---: | :---: |
-| The current browser editor processes media locally, keeping source footage on the user's device. | The project presents its editing workflow as free and open source, without a premium export tier. | A browser-based editor lowers the barrier to trying a capable open-source video workflow. |
+| Rust-based processing and GPU-native rendering are central to the editor's architecture. | A precise multi-track timeline and waveform tools support detailed editing. | The project is open source and presents its editing features without paywalls or watermarks. |
 
 > 💬 *A focused creative tool should make ambitious work feel more accessible — without getting in the way of the process.*
 
 ---
 
-## 📦 **Inside OpenCut — Deep Dive**
+## 📦 **Inside Clypra — Deep Dive**
 
-### 🧰 **🌐 Browser Editing**
-- Launch the current editor in a browser without installing a large desktop application.
-- Import footage and work with a timeline, preview, and basic clip controls.
-- Keep the workflow accessible across supported modern browsers.
+### 🧰 **⚡ Media Engine**
+- Use a Rust-based processing core designed for low-latency frame decoding.
+- Take advantage of GPU decoding and rendering paths supported by the platform and hardware.
+- Review project performance telemetry and architecture notes for current acceleration support.
 
-### 🎨 **✂️ Core Editing Tools**
-- Trim clips with frame-accurate in and out points.
-- Adjust playback rate, volume, and mute controls before exporting.
-- Export the edited clip directly from the browser editor.
+### 🎨 **🎬 Timeline & Audio**
+- Arrange video and audio across multiple tracks with frame-accurate editing operations.
+- Use waveform rendering to inspect audio peaks and RMS levels.
+- Keep audio and video synchronized while trimming and adjusting the sequence.
 
-### ⚙️ **🔒 Local-First Processing**
-- The current editor uses a Rust engine compiled to WebAssembly for local processing.
-- Source footage is not uploaded to a remote server as part of the described editing workflow.
-- No account, watermark, or paid export tier is required for the current editor.
+### ⚙️ **🎨 Visual Composition**
+- Add custom text styling and animated overlays to the composition.
+- Apply filters and inspect the result through a real-time canvas preview.
+- Combine supported video, audio, and image formats in a single editing project.
 
-### 🚀 **🚀 Project Roadmap**
-- The project is being rewritten with a Rust core and a shared web, desktop, and mobile direction.
-- An editor API, third-party plugin architecture, headless rendering, and MCP integration are stated roadmap goals.
-- Check the official repository for the current build and distinguish shipped browser features from planned desktop and mobile releases.
+### 🚀 **📦 Export & Platforms**
+- Prepare projects for supported output formats including H.264 and ProRes workflows.
+- Use the desktop builds for Windows, macOS, and Linux as described by the project.
+- Check the official repository for the current platform matrix and feature maturity.
 
 ---
 
-## 🎮 **Who Is OpenCut For?**
+## 🎮 **Who Is Clypra For?**
 
 | 🌱 **New Users** | 🏆 **Experienced Creators** | 🎬 **Professionals & Teams** |
 | :---: | :---: | :---: |
@@ -106,14 +106,14 @@ OpenCut puts privacy and straightforward editing first: no watermarks, no export
 
 ## ❓ **Frequently Asked Questions**
 
-**Q: What is OpenCut?**  
-A: a free, open-source video editor created as an alternative to subscription-based editing tools.
+**Q: What is Clypra?**  
+A: a free, open-source video editor built with Rust, Tauri, and React, with a strong emphasis on hardware-accelerated media processing.
 
 **Q: What makes it different?**  
-A: The current browser editor processes media locally, keeping source footage on the user's device.
+A: Rust-based processing and GPU-native rendering are central to the editor's architecture.
 
 **Q: Is it suitable for advanced work?**  
-A: The project presents its editing workflow as free and open source, without a premium export tier.
+A: A precise multi-track timeline and waveform tools support detailed editing.
 
 **Q: Which platforms and formats are supported?**  
 A: Support depends on the current project build. Check its official repository and documentation for the latest platform and format details.
@@ -179,17 +179,16 @@ A: Review the project's public releases, documentation, and issue tracker for cu
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,25:0D9488,50:0891B2,75:2563EB,100:DBEAFE&height=160&section=footer&text=OpenCut&fontColor=FFFFFF&fontSize=26&fontAlignY=72&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E3A8A,50:2563EB,75:0EA5E9,100:BAE6FD&height=160&section=footer&text=Clypra&fontColor=FFFFFF&fontSize=26&fontAlignY=72&animation=twinkling" />
 </p>
 
 <p align="center">
-  <strong>✂️ OpenCut</strong><br>
-  <em>Open Source | Open-Source Video Editing | Creative Software</em>
+  <strong>⚡ Clypra</strong><br>
+  <em>Open Source | Hardware-Accelerated Video Editing | Creative Software</em>
 </p>
 
 ---
 
 <p align="center">
-  <em>A free, private video editor built to make modern editing accessible everywhere.</em>
+  <em>A high-performance editing engine built for precise timelines and fluid playback.</em>
 </p>
-
