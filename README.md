@@ -195,4 +195,3 @@ A: Releases follow a regular cadence, with patch releases for critical fixes.
 <p align="center">
   <em>Your desktop has been static long enough. Bring it to life — freely, openly, and beautifully.</em>
 </p>
-
