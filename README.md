@@ -18,9 +18,10 @@ Whether you want a subtle animated gradient, a looping 4K video, or a fully inte
 
 The desktop has been static for decades. **Lively changes that — cleanly, efficiently, and for free.**
 
+---
+
 <div align="center">
-  <a href="https://github.com/rocksdanister/lively/releases">
-    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20LIVELY-LATEST%20RELEASE-1E88E5?style=for-the-badge&labelColor=061E47&logo=github&logoColor=white" alt="Download Lively" />
+  <a href="https://github.com/rocksdanister/lively/releases"><img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-1E88E5?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://github.com/rocksdanister/lively/releases"><img src="https://img.shields.io/badge/LATEST%20BUILD-061E47?style=for-the-badge&logo=github&logoColor=white"></a>
   </a>
 </div>
 
