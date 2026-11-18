@@ -23,7 +23,7 @@ Move from quick edits to more ambitious video projects.
 <a id="download-top"></a>
 
 <div align="center">
-  <a href="https://github.com/rocksdanister/lively/releases"><img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-9333EA?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://github.com/rocksdanister/lively/releases"><img src="https://img.shields.io/badge/LATEST%20BUILD-7C3AED?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/rocksdanister/lively/releases"><img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://github.com/rocksdanister/lively/releases"><img src="https://img.shields.io/badge/LATEST%20BUILD-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 > [!NOTE]
@@ -191,10 +191,4 @@ A: Review the project's public releases, documentation, and issue tracker for cu
 
 <p align="center">
   <em>A modern timeline editor with smart tools, creative effects, and no subscription barriers.</em>
-</p>
-
----
-
-<p align="center">
-  <em>A high-performance editing engine built for precise timelines and fluid playback.</em>
 </p>
